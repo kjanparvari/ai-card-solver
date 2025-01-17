@@ -18,4 +18,4 @@ This project explores foundational AI concepts, particularly search algorithms, 
 This project was developed as part of the **Artificial Intelligence course** at **Amirkabir University of Technology (AUT)**.  
 
 ## License  
-This project is licensed under the AUT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
